@@ -1,0 +1,6 @@
+[submodule "very_good_chat_backend"]
+	path = very_good_chat_backend
+	url = https://github.com/aouahib/very_good_chat_backend
+[submodule "very_good_chat_web"]
+	path = very_good_chat_web
+	url = https://github.com/aouahib/very_good_chat_web
