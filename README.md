@@ -8,7 +8,7 @@
 
 A chat app made with React and GraphQL (and ❤️ )
 
-A hosted version can be found [here][hosted-version], you can also read about it in this [blog-post].
+A hosted version can be found [here][hosted-version], you can also read about it in this [blog post][blog-post].
 
 ## Starware
 
